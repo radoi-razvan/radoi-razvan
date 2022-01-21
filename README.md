@@ -50,7 +50,7 @@ I started coding in February 2021. I am passionate about learning new things and
 
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&color=00a1f1)
 ![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=Visual%20Studio&color=783bd2)
-![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&color=ef5b25)
 
