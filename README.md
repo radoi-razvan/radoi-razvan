@@ -16,7 +16,7 @@ I started coding in February 2021. I am passionate about learning new things and
 
 ## 💼 Technical Skills
 
-###Programming :
+### Programming :
 <p align="left">
   	<img src="https://raw.githubusercontent.com/radoi-razvan/radoi-razvan/main/assets/python.svg" alt="python" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/radoi-razvan/radoi-razvan/main/assets/html.svg" alt="html" width="40" height="40"/>
