@@ -45,13 +45,13 @@ I started coding in February 2021. I am passionate about learning new things and
 
 ### Used Tools:
 
-![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=Git&color=3d2d00)
-![](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&color=3d2d00)
+![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-![](https://img.shields.io/badge/Visual%20Studio%20Code-informational?style=for-the-badge&logo=Visual%20Studio%20Code&color=00a1f1)
-![](https://img.shields.io/badge/Visual%20Studio-informational?style=for-the-badge&logo=Visual%20Studio&color=783bd2)
+![](https://img.shields.io/badge/Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio%20Code&color=00a1f1)
+![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=Visual%20Studio&color=783bd2)
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-![](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=Postman&color=ef5b25)
+![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&color=ef5b25)
 
-![](https://img.shields.io/badge/Heroku-informational?style=for-the-badge&logo=Heroku&color=430098)
+![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=Heroku&color=430098)
