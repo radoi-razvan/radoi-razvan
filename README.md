@@ -8,7 +8,7 @@
 
 <br />
 
-## 💻 About me 
+## 💻 About Me 
 
 I started coding in February 2021. I am passionate about learning new things and I want to grow and improve as much as possible in the area of software development.
 
