@@ -33,7 +33,7 @@ I started coding in February 2021. I am passionate about learning new things and
 
 ### Frameworks:
 <p align="left">
-  	<img src="https://raw.githubusercontent.com/radoi-razvan/radoi-razvan/main/assets/flask.svg" alt="flask" width="40" height="40"/>
+  	<img src="https://raw.githubusercontent.com/radoi-razvan/radoi-razvan/main/assets/flask.svg" alt="flask" width="50" height="40"/>
     <img src="https://raw.githubusercontent.com/radoi-razvan/radoi-razvan/main/assets/dotnet.svg" alt="dotnet" width="40" height="40"/>
 </p>
 
