@@ -58,5 +58,5 @@ I started coding in February 2021. I am passionate about learning new things and
 
 ## 📈 GitHub Stats 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=radoi-razvan&custom_title=My%20Github%20Stats&count_private=false&show_icons=true&theme=great-gatsby" alt="radoi-razvan" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=radoi-razvan&custom_title=My%20Github%20Stats&count_private=true&show_icons=true&theme=great-gatsby" alt="radoi-razvan" />
  
