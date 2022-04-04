@@ -21,8 +21,11 @@ I started coding in February 2021. I am passionate about learning new things and
   	<img src="https://raw.githubusercontent.com/radoi-razvan/radoi-razvan/main/assets/python.svg" alt="python" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/radoi-razvan/radoi-razvan/main/assets/html.svg" alt="html" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/radoi-razvan/radoi-razvan/main/assets/javascript.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/radoi-razvan/radoi-razvan/main/assets/typescript.svg" alt="typescript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/radoi-razvan/radoi-razvan/main/assets/csharp.svg" alt="csharp" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/radoi-razvan/radoi-razvan/main/assets/react.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/radoi-razvan/radoi-razvan/main/assets/angular.svg" alt="angular" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/radoi-razvan/radoi-razvan/main/assets/node-js.svg" alt="node-js" width="40" height="40"/>
 </p>
 
 ### Databases:
